@@ -1,0 +1,8 @@
+C:\Users\tanbi\Desktop\Codes\LabExam\bin\Debug\LabExam.exe.config
+C:\Users\tanbi\Desktop\Codes\LabExam\bin\Debug\LabExam.exe
+C:\Users\tanbi\Desktop\Codes\LabExam\bin\Debug\LabExam.pdb
+C:\Users\tanbi\Desktop\Codes\LabExam\obj\Debug\LabExam.csproj.AssemblyReference.cache
+C:\Users\tanbi\Desktop\Codes\LabExam\obj\Debug\LabExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanbi\Desktop\Codes\LabExam\obj\Debug\LabExam.csproj.CoreCompileInputs.cache
+C:\Users\tanbi\Desktop\Codes\LabExam\obj\Debug\LabExam.exe
+C:\Users\tanbi\Desktop\Codes\LabExam\obj\Debug\LabExam.pdb
