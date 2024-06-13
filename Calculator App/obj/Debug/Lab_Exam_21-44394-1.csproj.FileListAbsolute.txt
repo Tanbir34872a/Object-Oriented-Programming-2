@@ -1,0 +1,22 @@
+C:\Users\tanbi\Desktop\Codes n Stuff\Lab_Exam_21-44394-1\bin\Debug\Lab_Exam_21-44394-1.exe.config
+C:\Users\tanbi\Desktop\Codes n Stuff\Lab_Exam_21-44394-1\bin\Debug\Lab_Exam_21-44394-1.exe
+C:\Users\tanbi\Desktop\Codes n Stuff\Lab_Exam_21-44394-1\bin\Debug\Lab_Exam_21-44394-1.pdb
+C:\Users\tanbi\Desktop\Codes n Stuff\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21-44394-1.csproj.AssemblyReference.cache
+C:\Users\tanbi\Desktop\Codes n Stuff\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21-44394-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanbi\Desktop\Codes n Stuff\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21_44394_1.Form1.resources
+C:\Users\tanbi\Desktop\Codes n Stuff\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21_44394_1.Properties.Resources.resources
+C:\Users\tanbi\Desktop\Codes n Stuff\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21-44394-1.csproj.GenerateResource.cache
+C:\Users\tanbi\Desktop\Codes n Stuff\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21-44394-1.csproj.CoreCompileInputs.cache
+C:\Users\tanbi\Desktop\Codes n Stuff\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21-44394-1.exe
+C:\Users\tanbi\Desktop\Codes n Stuff\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21-44394-1.pdb
+C:\Users\tanbi\Desktop\Sixth Semester\OOP 2\Lab Exam 21-44394-1\Lab_Exam_21-44394-1\bin\Debug\Lab_Exam_21-44394-1.exe.config
+C:\Users\tanbi\Desktop\Sixth Semester\OOP 2\Lab Exam 21-44394-1\Lab_Exam_21-44394-1\bin\Debug\Lab_Exam_21-44394-1.exe
+C:\Users\tanbi\Desktop\Sixth Semester\OOP 2\Lab Exam 21-44394-1\Lab_Exam_21-44394-1\bin\Debug\Lab_Exam_21-44394-1.pdb
+C:\Users\tanbi\Desktop\Sixth Semester\OOP 2\Lab Exam 21-44394-1\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21-44394-1.csproj.AssemblyReference.cache
+C:\Users\tanbi\Desktop\Sixth Semester\OOP 2\Lab Exam 21-44394-1\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21-44394-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanbi\Desktop\Sixth Semester\OOP 2\Lab Exam 21-44394-1\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21_44394_1.Form1.resources
+C:\Users\tanbi\Desktop\Sixth Semester\OOP 2\Lab Exam 21-44394-1\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21_44394_1.Properties.Resources.resources
+C:\Users\tanbi\Desktop\Sixth Semester\OOP 2\Lab Exam 21-44394-1\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21-44394-1.csproj.GenerateResource.cache
+C:\Users\tanbi\Desktop\Sixth Semester\OOP 2\Lab Exam 21-44394-1\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21-44394-1.csproj.CoreCompileInputs.cache
+C:\Users\tanbi\Desktop\Sixth Semester\OOP 2\Lab Exam 21-44394-1\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21-44394-1.exe
+C:\Users\tanbi\Desktop\Sixth Semester\OOP 2\Lab Exam 21-44394-1\Lab_Exam_21-44394-1\obj\Debug\Lab_Exam_21-44394-1.pdb
