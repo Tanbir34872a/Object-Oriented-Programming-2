@@ -1,0 +1,15 @@
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\bin\Debug\net6.0\CeeSharpo.exe
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\bin\Debug\net6.0\CeeSharpo.deps.json
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\bin\Debug\net6.0\CeeSharpo.runtimeconfig.json
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\bin\Debug\net6.0\CeeSharpo.dll
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\bin\Debug\net6.0\CeeSharpo.pdb
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\obj\Debug\net6.0\CeeSharpo.csproj.AssemblyReference.cache
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\obj\Debug\net6.0\CeeSharpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\obj\Debug\net6.0\CeeSharpo.AssemblyInfoInputs.cache
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\obj\Debug\net6.0\CeeSharpo.AssemblyInfo.cs
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\obj\Debug\net6.0\CeeSharpo.csproj.CoreCompileInputs.cache
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\obj\Debug\net6.0\CeeSharpo.dll
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\obj\Debug\net6.0\refint\CeeSharpo.dll
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\obj\Debug\net6.0\CeeSharpo.pdb
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\obj\Debug\net6.0\CeeSharpo.genruntimeconfig.cache
+C:\Users\tanbi\Desktop\Codes\CeeSharpo\obj\Debug\net6.0\ref\CeeSharpo.dll
